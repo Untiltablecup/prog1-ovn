@@ -1,4 +1,4 @@
 name = input ('Vad heter du?')
-print ('Hej', name)
-
+efternamn = input ('Vad är ditt efternamn?')
+print ('Hej', name, efternamn)
 
