@@ -1,11 +1,9 @@
 svar = input ('Skriv ett tal?')
 x = int (svar) 
 y = x*x
-print ('Wow', y)
+print ('Talet i kvadrat är', y)
 
-svar1 = input ('Skriv mer tal?!')
+svar1 = input ('Skriv ett nytt tal')
 z = float (svar1)
-svar2 = input ('Skriver ännu mer tal?!')
-i = float (svar2)
-o = z*i
-print ('Svaret blir....', o)
+o = z*z
+print ('Talet i kvadrat är', o)
