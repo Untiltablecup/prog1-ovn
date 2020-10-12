@@ -1,5 +1,3 @@
-import math
-
 tid = float(input("Hur många minuter per månad?"))
 peng = float(input("Hur mycket kr per min?"))
 
