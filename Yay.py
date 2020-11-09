@@ -48,13 +48,5 @@ def hello():
 
 hello()
 
-def hj():
-    lista = ['1']
-    _a = 1
-    while _a < 10:
-        _a += 1
-        lista.append[_a]
-    return lista
 
-print(hj())
 
