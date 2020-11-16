@@ -1,7 +1,7 @@
-n = int(input('n?\n>'))
+n = int(input('Talet n?\n>'))
 summa = 0
 k = 1
-while k <= n**2:
-    summa = summa + k
+while k <= n:
+    summa = summa + k*k
     k += 1
-print (("Dinna summa blev ") + str(summa) + ("!"))
+print ("Summa =", summa)
